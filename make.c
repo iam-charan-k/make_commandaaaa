@@ -1,6 +1,7 @@
 /* charan */
 /* working code */
 /* simple make command */
+/* makefile need */
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>	
