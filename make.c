@@ -2,6 +2,7 @@
 /* working code */
 /* simple make command */
 /* makefile need */
+/* \tcc abc.o xyz.o */
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>	
