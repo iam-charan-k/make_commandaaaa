@@ -3,6 +3,7 @@
 /* simple make command */
 /* makefile need */
 /* target : abc.o xyz.o */
+/* tcc abc.o xyz.o */
 #include<stdio.h>
 #include<string.h>
 #include<stdlib.h>	
